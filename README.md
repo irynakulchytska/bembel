@@ -10,14 +10,15 @@
 
 ## 1. Introduction <a name="introduction"></a>
 
-Bembel is a Boundary Element Method Based Engineering Library written in C and C++ to solve boundary value problems governed by the Laplace, Helmholtz or electric wave equation [3,4,5]. It was written as part of a cooperation between the TU Darmstadt and the University of Basel, coordinated by H. Harbrecht, S. Kurz and S. Schöps. It is based on the Laplace BEM of J. Dölz, H. Harbrecht and M. Multerer, [2,6] as well as the spline and geometry framework of F. Wolf. We plan to release a version of the code here under the GNU GPLv3 before the end of March 2019.
+Bembel is a Boundary Element Method Based Engineering Library written in C and C++ to solve boundary value problems governed by the Laplace, Helmholtz or electric wave equation [3,4,5]. It was written as part of a cooperation between the TU Darmstadt and the University of Basel, coordinated by H. Harbrecht, S. Kurz and S. Schöps. The code is based on the Laplace BEM of J. Dölz, H. Harbrecht and M. Multerer, [2,6] as well as the spline and geometry framework of F. Wolf. 
+
+We plan to release a version of the code here under the GNU GPLv3 **before the end of March 2019**.
 
 ## 2. What is a Bembel <a name="whatis"></a>
 
 A traditional German ceramic, as depicted in our logo. Quoting [Wikipedia](https://en.wikipedia.org/wiki/Apfelwein):
 
 > *Most establishments also serve Apfelwein by the Bembel (a specific Apfelwein jug), much like how beer can be purchased by the pitcher in many countries. The paunchy Bembel (made from salt-glazed stoneware) usually has a basic grey colour with blue-painted detailing.*
-
 
 ## 3. Features <a name="features"></a>
 
@@ -70,8 +71,9 @@ When using our code, we recommend starting with understanding the code in `src/e
 
 ## 6. Contributors <a name="contributors"></a>
 
-Maintainers: J. Dölz, M. Multere, F. Wolf.
-Other contributors include D. Andric (geometry import), H. Harbrecht (legacy C-codebase, quadrature routines).
+**Current maintainers** are J. Dölz, M. Multere, F. Wolf.
+
+**Other contributors** include D. Andric (geometry import), H. Harbrecht (legacy C-codebase, quadrature routines).
 
 ## 7. About the People <a name="people"></a>
 
